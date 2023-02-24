@@ -11,4 +11,5 @@ Student Info
 
 * Student Name: NGUYEN NGOC NHAT LINH
 * Student ID: BI12-249
+* Class: CS
 
